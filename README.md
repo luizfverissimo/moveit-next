@@ -1,7 +1,7 @@
 [<img src="https://github.com/luizfverissimo/luizfverissimo/blob/master/lf_verissimo_logo_light.png?raw=true" alt="lf verissimo logo" width="200"/>](https://lfverissimo.com)
 
 # Move-it 🏃‍♂️ - NLW#4
-<img align="center" alt="React" src="https://img.shields.io/badge/-React-2E2D2E?style=flat-square&labelColor=FD3A69&logo=react&logoColor=white" /><img align="center" alt="Next.js" src="https://img.shields.io/badge/-Next.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=next.js&logoColor=white" /><img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-2E2D2E?style=flat-square&labelColor=FD3A69&logo=tailwind-css&logoColor=white" /></br></br>
+<img align="center" alt="React" src="https://img.shields.io/badge/-React-2E2D2E?style=flat-square&labelColor=FD3A69&logo=react&logoColor=white" /><img align="center" alt="Next.js" src="https://img.shields.io/badge/-Next.js-2E2D2E?style=flat-square&labelColor=FD3A69&logo=next.js&logoColor=white" /></br></br>
 Project created with *React* with *Next.js*, during Next LevelWeek #4.
 </br>
 ## [Click here to launch Move-it](https://move-it-lfv.vercel.app/)
